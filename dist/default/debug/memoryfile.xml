@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/dsPIC_digiffects.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>234</used>
+      <free>32534</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>263394</length>
+      <used>8466</used>
+      <free>254928</free>
+    </memory>
+  </executable>
+</project>
